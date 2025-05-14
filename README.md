@@ -1,4 +1,4 @@
-# Giovanna_Passo_a_Passo_para_Montar_Tsuru
+.# Giovanna_Passo_a_Passo_para_Montar_Tsuru
 
 
 # Passo a passo para fazer um Tsuru:
