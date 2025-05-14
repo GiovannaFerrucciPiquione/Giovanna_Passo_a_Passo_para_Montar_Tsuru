@@ -26,7 +26,7 @@ Achate bem.
 
 ![](imagens/IMG_20250514_104304420.jpg)
 
-### 5. Faça a base do pássaro (bird base)
+### 5. Faça a base do pássaro 
 Com a ponta fechada voltada para baixo, dobre os dois lados para o centro formando um "papagaio".
 
 ![](imagens/IMG_20250514_104505511.jpg)
